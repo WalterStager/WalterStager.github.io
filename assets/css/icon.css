@@ -1,0 +1,7 @@
+.icon {
+    background: url('your-image-url.jpg');
+    height: 128px;
+    width: 128px;
+    display: block;
+    /* Other styles here */
+}
