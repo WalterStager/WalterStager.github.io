@@ -1,5 +1,5 @@
 .icon {
-    background: url('myIcon.png');
+    background: url('/images/myIcon.png');
     height: 128px;
     width: 128px;
     display: block;
